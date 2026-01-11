@@ -1,2 +1,8 @@
-This project was developed using python and the pygame library. This is a simple game where each player controls one of the ships. 
-The goal of the game is to survive and destroy the other player. The game will be getting constant updates to various cool systems.
+## 🚀 Ship Battle Game
+
+A two player ship combat game built with Python and the Pygame library. Each player controls a ship, with the objective of surviving while destroying the opposing player.
+
+The game is actively evolving, with ongoing updates planned to introduce new mechanics and systems.
+
+**Tech:** Python · Pygame  
+**Status:** In development
